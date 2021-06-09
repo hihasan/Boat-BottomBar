@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Boat Bottombar</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="bag">Bag</string>
+    <string name="favorite">Orders</string>
+    <string name="profile">Profile</string>
+
+    <string name="text">Home</string>
+    <string name="text2">Likes</string>
+    <string name="text3">Bookmarks</string>
+    <string name="text4">Settings</string>
+</resources>

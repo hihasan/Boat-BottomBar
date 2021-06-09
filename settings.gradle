@@ -1,0 +1,3 @@
+rootProject.name = "Boat Bottombar"
+include ':app'
+include ':boat'
